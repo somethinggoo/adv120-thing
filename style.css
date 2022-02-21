@@ -1,0 +1,31 @@
+.red_h3 {
+    color:red;
+    font-family:'Open Sans', monospace;
+}
+#mobilnet_img {
+    width:17%;
+    height:6%;
+}
+#google_lens_label {
+    font-family:'Open Sans', monospace;
+}
+#entire_div {
+    border-radius:20px;
+    box-shadow:3px 3px 7px black;
+    background-color:lightgray;
+    font-family:'Open Sans', monospace;
+}
+#entire_div hr {
+    color:white;
+}
+#water_bottle_img {
+    border-radius:20px;
+}
+#water_bottle_img:hover {
+    border-radius:20px;
+    box-shadow:5px 5px 7px darkgray;
+}
+.output_label {
+    background-color:white;
+    border-radius:20px;
+}
